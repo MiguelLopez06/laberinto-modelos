@@ -4,5 +4,5 @@ MIGUEL ANGEL LOPEZ PRADA 20161020534
 JULIAN STIVEN HIGUERA HURTADO 20161020041
 
 
-# Restircciones
+# Restricciones
 Solo funciona en laberintos N x N-1
